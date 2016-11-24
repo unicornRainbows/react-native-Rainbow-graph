@@ -1,6 +1,6 @@
 {
   "name": "react-native-rainbow-graph",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "React-Native 0.38 Animated Colorful SVG Graph Component for both iOS and Android",
   "main": "index.js",
   "scripts": {
