@@ -1,0 +1,30 @@
+{
+  "name": "react-native-rainbow-graph",
+  "version": "1.0.0",
+  "description": "React-Native 0.38 Animated Colorful SVG Graph Component for both iOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unicornRainbows/react-native-Rainbow-graph.git"
+  },
+  "keywords": [
+    "react-native",
+    "svg",
+    "graph",
+    "iOS",
+    "Android",
+    "colorful"
+  ],
+  "author": "UnicornRainbows",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unicornRainbows/react-native-Rainbow-graph/issues"
+  },
+  "homepage": "https://github.com/unicornRainbows/react-native-Rainbow-graph#readme",
+  "devDependencies": {
+    "react-native": "^0.38.0"
+  }
+}
