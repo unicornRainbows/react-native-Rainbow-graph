@@ -1,6 +1,8 @@
 # react-native-Rainbow-graph
 React-Native 0.38 Animated Colorful SVG Graph Component for both iOS and Android
 
+```In Production starting 24 November 2016```
+
 ![Fucking-Rainbow](http://www.clipartlord.com/wp-content/uploads/2014/05/unicorn4.png)
 
 # Usage
