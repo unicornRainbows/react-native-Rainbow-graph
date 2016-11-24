@@ -21,16 +21,15 @@ import all SVG stuff
 
 ## How to use
 ```jsx
-import { Rainbow-graph,BarGraph} from 'react-native-rainbow-graph';
+import { RainbowGraph} from 'react-native-rainbow-graph';
 
 // ...
 let simpleObject = 
 {
 
 }
-<Rainbow-graph>
-  <BarGraph data={simpleObject} color="#FFF" />
+<RainbowGraph  data={simpleObject} color="#FFF">
  
-</Rainbow-graph>
+</RainbowGraph>
 
 ```
