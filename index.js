@@ -1,3 +1,3 @@
-import RainbowGraph from './src/RainbowGraph';
+import RainbowGraphComponent from './src/RainbowGraph';
 
-export const RainbowGraph = RainbowGraph;
+export const RainbowGraph = RainbowGraphComponent;
