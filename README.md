@@ -2,6 +2,8 @@
 React-Native 0.38 Animated Colorful SVG Graph Component for both iOS and Android
 
 ```In Production starting 24 November 2016```
+```Updated 23 January.. time to get using, or checking...```
+
 
 ![Fucking-Rainbow](http://www.clipartlord.com/wp-content/uploads/2014/05/unicorn4.png)
 
@@ -26,12 +28,12 @@ import all SVG stuff
 import { RainbowGraph} from 'react-native-rainbow-graph';
 
 // ...
-let simpleObject = 
+let simpleObject =
 {
 
 }
 <RainbowGraph  data={simpleObject} color="#FFF">
- 
+
 </RainbowGraph>
 
 ```
