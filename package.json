@@ -1,15 +1,67 @@
 {
-  "name": "react-native-rainbow-graph",
-  "version": "1.1.1",
+  "_args": [
+    [
+      {
+        "name": "react-native-rainbow-graph",
+        "raw": "react-native-rainbow-graph@^1.1.0",
+        "rawSpec": "^1.1.0",
+        "scope": null,
+        "spec": ">=1.1.0 <2.0.0",
+        "type": "range"
+      },
+      "/Users/unicornrainbows/4iMobile/LQ"
+    ]
+  ],
+  "_from": "react-native-rainbow-graph@>=1.1.0 <2.0.0",
+  "_id": "react-native-rainbow-graph@1.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-rainbow-graph",
+  "_nodeVersion": "6.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-rainbow-graph-1.1.1.tgz_1479985065801_0.08226899127475917"
+  },
+  "_npmUser": {
+    "email": "me@hermancoetzee.com",
+    "name": "unicornrainbows"
+  },
+  "_npmVersion": "3.9.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-rainbow-graph",
+    "raw": "react-native-rainbow-graph@^1.1.0",
+    "rawSpec": "^1.1.0",
+    "scope": null,
+    "spec": ">=1.1.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-rainbow-graph/-/react-native-rainbow-graph-1.1.1.tgz",
+  "_shasum": "6ece512ccd6c82ab0ea40d6152346e491c64f7d4",
+  "_shrinkwrap": null,
+  "_spec": "react-native-rainbow-graph@^1.1.0",
+  "_where": "/Users/unicornrainbows/4iMobile/LQ",
+  "author": {
+    "name": "UnicornRainbows"
+  },
+  "bugs": {
+    "url": "https://github.com/unicornRainbows/react-native-Rainbow-graph/issues"
+  },
+  "dependencies": {},
   "description": "React-Native 0.38 Animated Colorful SVG Graph Component for both iOS and Android",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "react-native": "^0.38.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/unicornRainbows/react-native-Rainbow-graph.git"
+  "directories": {},
+  "dist": {
+    "shasum": "6ece512ccd6c82ab0ea40d6152346e491c64f7d4",
+    "tarball": "https://registry.npmjs.org/react-native-rainbow-graph/-/react-native-rainbow-graph-1.1.1.tgz"
   },
+  "gitHead": "9aef1813344716db65f70f5bcb2a027cb440b0db",
+  "homepage": "https://github.com/unicornRainbows/react-native-Rainbow-graph#readme",
   "keywords": [
     "react-native",
     "svg",
@@ -18,13 +70,23 @@
     "Android",
     "colorful"
   ],
-  "author": "UnicornRainbows",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/unicornRainbows/react-native-Rainbow-graph/issues"
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "me@hermancoetzee.com",
+      "name": "unicornrainbows"
+    }
+  ],
+  "name": "react-native-rainbow-graph",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unicornRainbows/react-native-Rainbow-graph.git"
   },
-  "homepage": "https://github.com/unicornRainbows/react-native-Rainbow-graph#readme",
-  "devDependencies": {
-    "react-native": "^0.38.0"
-  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
 }
