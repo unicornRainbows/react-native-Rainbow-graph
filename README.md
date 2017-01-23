@@ -26,11 +26,11 @@ import all SVG stuff
 import { RainbowGraph} from 'react-native-rainbow-graph';
 
 // ...
-let dataObject = 
+let simpleObject = 
 {
-data:[arrayOfDataPoints,...],
+
 }
-<RainbowGraph  data={dataObject} color="#FFF">
+<RainbowGraph  data={simpleObject} color="#FFF">
  
 </RainbowGraph>
 
